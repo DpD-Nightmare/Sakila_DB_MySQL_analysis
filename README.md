@@ -8,10 +8,10 @@
 
 - You can use aggregation functions such as SUM, AVG, MIN, and MAX to summarize data and get a better understanding of the overall trends and patterns in the data. For example, you might want to see the average rental duration for all films in the database.
 
--You can use GROUP BY to group data by certain criteria and apply aggregation functions to the groups. For example, you might want to see the total number of rentals for each film in the database.
+- You can use GROUP BY to group data by certain criteria and apply aggregation functions to the groups. For example, you might want to see the total number of rentals for each film in the database.
 
--You can use HAVING to filter the results of a GROUP BY clause based on certain criteria. For example, you might want to see only the films that have been rented more than 10 times.
+- You can use HAVING to filter the results of a GROUP BY clause based on certain criteria. For example, you might want to see only the films that have been rented more than 10 times.
 
--You can use ORDER BY to sort the results of a query in ascending or descending order. For example, you might want to see the films that have been rented the most times, in descending order.
+- You can use ORDER BY to sort the results of a query in ascending or descending order. For example, you might want to see the films that have been rented the most times, in descending order.
 
--By using these SQL queries and functions, you can effectively analyze the data in the MySQL Sakila database and gain valuable insights into the operations of a fictional DVD rental store.
+- By using these SQL queries and functions, you can effectively analyze the data in the MySQL Sakila database and gain valuable insights into the operations of a fictional DVD rental store.
