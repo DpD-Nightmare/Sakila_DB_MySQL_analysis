@@ -1,5 +1,7 @@
 # Sakila_DB_MySQL_analysis
 
+![image](https://user-images.githubusercontent.com/52066732/209704465-8ef3bd65-670f-432f-937e-c72d1e50c64d.png)
+
 - The MySQL Sakila database is a sample database that is used to demonstrate the features of MySQL. It is a fictional DVD rental store and includes data on customers, films, rentals, and payments.
 
 - Using SQL, you can analyze the data in the MySQL Sakila database in various ways. For example, you can use the SELECT statement to retrieve specific columns and rows from the database. You can use the WHERE clause to filter the results based on certain criteria, such as the rental duration or the customer's first name.
